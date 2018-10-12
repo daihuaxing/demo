@@ -1,0 +1,154 @@
+{
+  "title":"大学生消费观调查问卷",
+  "Questionnaire summary":"",
+  "time":"",
+  "describe":"您好，我们是XXX，我们正在进行一项关于大学生消费观的调查，想邀请您用几分钟时间帮忙填答这份问卷。本问卷实行匿名制，所有数据只用于统计分析， 请您放心填写。题目选项无对错之分，请您按自己的实际情况填写。谢谢您的帮助",
+  "container":[
+    {
+      "subTitle":"",
+      "des":"",
+      "subContainer":[
+        {
+          "itemTitle":"",
+          "itemDes":"",
+          "itmes":[
+            {
+              "type":"radio",
+              "title":"Q1：您的性别?",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["男","女"],
+              "br":true
+            },
+            {
+              "type":"radio",
+              "title":"Q2:你所在的年纪",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["大一","大二","大三","大四","研究生"],
+              "br":true
+            },
+            {
+              "type":"text",
+              "title":"Q3:你平均一个月的消费大约是多少元",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":"",
+              "br":true
+            },
+            {
+              "type":"text",
+              "title":"Q4:你期望一个月的月消费是多少",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":"",
+              "br":true
+            },
+            {
+              "type":"check",
+              "title":"Q5：你一般每个月花费主要在那些方面？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["伙食","购买衣物","日用品","学习","娱乐","通讯","其他"],
+              "br":true
+            },
+            {
+              "type":"text",
+              "title":"Q6: 你每个月在这些方面的花费大约是多少元？",
+              "value":"",
+              "danwei":"",
+              "des":"填写数字，没有填0",
+              "options":["伙食","购买衣物","日用品","学习","娱乐","通讯","其他"],
+              "br":true
+            },
+            {
+              "type":"check",
+              "title":"Q7: 你日常一般在哪里用餐？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["食堂" ,"饭馆","路边小摊","外卖","其他"],
+              "br":true
+            },
+            {
+              "type":"text",
+              "title":"Q8: 你一般在这些场所用餐的频率是",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["食堂" ,"饭馆","路边小摊","外卖","其他"],
+              "br":true
+            },
+            {
+              "type":"check",
+              "title":"Q9：你一般在哪里购买服饰？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["大型超市或商场百货" ,"专卖店或品牌店","特色店、折扣店","路边小摊","小店",{"value":"网购","change":""},{"value":"其他，请注明","change":"text"}],
+              "br":true
+
+            },
+            {
+              "type":"check",
+              "title":"Q10：你购物时主要考虑哪些因素",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["时尚" ,"实用","价格","品牌","其他"],
+              "br":true
+            },
+            {
+              "type":"radio",
+              "title":"Q11: 当你和朋友聚会及外出时，你一般采取的买单方式是？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["AA制" ,"有人买单请客","视情况而定"],
+              "br":true
+            },
+            {
+              "type":"radio",
+              "title":"Q12：以下哪项符合你的消费方式？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["能省则省" ,"事先做好消费计划再计划花钱","毫不在乎想花就花","其他"],
+              "br":true
+            },
+            {
+              "type":"radio",
+              "title":"Q13：你平时是否做消费记录？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["有，全部做记录" ,"有，主要部分做记录","有，偶尔做记录","几乎不做记录"],
+              "br":true
+            },
+            {
+              "type":"radio",
+              "title":"Q14：你的生活费主要来源？",
+              "value":"",
+              "danwei":"",
+              "des":"",
+              "options":["父母给予" ,"勤工俭学","奖学金","兼职","其他"],
+              "br":true
+            },
+
+
+
+          ]
+        },
+
+
+      ],
+      "editTime":""
+    },
+  ]
+
+}ggv
